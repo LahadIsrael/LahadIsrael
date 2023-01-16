@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LahadIsrael
-- 👀 I’m interested in web development, gaming, exercising, and travelling!
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in freelance software development, gaming, exercising, and travelling!
+- 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on anything, experience is the best teacher
 - 📫 How to reach me? Follow me on Instagram @lahadthedev
 
